@@ -2,13 +2,13 @@
   "schema": 1,
   "stable": null,
   "beta": {
-    "version": "0.6.0",
-    "build": 6,
-    "notes": "New: People & Nearby (AirDrop-style, accept once), send to many people, share links (expiry, password, download limit), drop rooms, Shelf (clipboard & screenshots on all your devices, Mac menu bar), event mode, QR pairing, NFC tap (phones), Quick Settings tiles, avatars, photo/text preview, stats, Undo send, browse & pull files from your devices, safety warning for apps, notification centre, much faster direct transfers, and direct transfers from the web app. Every button now has a springy press, glow and haptic.",
-    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.6.0-beta/ferry-beta-0.6.0.apk",
-    "apkSha256": "8b31ad5bbbbc8110bd6635d36d79665bf747eb2a29b134c11415413fd8492cba",
-    "apkSize": 80847795,
-    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.6.0-beta/ferry-beta-mac-0.6.0.zip",
-    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.6.0-beta"
+    "version": "0.6.1",
+    "build": 7,
+    "notes": "Problem reports (Settings \u203a About, private to your account), People nearby on Home with a Send button, tidier Settings, sheets scroll on small screens.",
+    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.6.1-beta/ferry-beta-0.6.1.apk",
+    "apkSha256": "d05683b70f530e74355ce0a36cdb235296271b4636b1caa2522d6c2e7653a0a6",
+    "apkSize": 80852831,
+    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.6.1-beta/ferry-beta-mac-0.6.1.zip",
+    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.6.1-beta"
   }
 }
