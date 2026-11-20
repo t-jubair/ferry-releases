@@ -2,13 +2,13 @@
   "schema": 1,
   "stable": null,
   "beta": {
-    "version": "0.7.4",
-    "build": 12,
-    "notes": "Dragging files now lights up just the drop box (no full-window overlay). The Send window is redesigned: file previews, clearer device list with battery, a tidy nearby line and a summary bar.",
-    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.4-beta/ferry-beta-0.7.4.apk",
-    "apkSha256": "d66cc7a87d503c29ccaa273110a270f66d13e748184694de76fa3f125e21835d",
+    "version": "0.7.5",
+    "build": 13,
+    "notes": "Sends no longer get stuck (big files now go through). Back button and back swipe step back like iOS instead of closing the app; back sits in its own bar above the title.",
+    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.5-beta/ferry-beta-0.7.5.apk",
+    "apkSha256": "1efa402f61023a03f5e5a9d86463ffccc363a66fc1e6dc3aa369cc4c8f1d73ad",
     "apkSize": 83387165,
-    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.4-beta/ferry-beta-mac-0.7.4.zip",
-    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.7.4-beta"
+    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.5-beta/ferry-beta-mac-0.7.5.zip",
+    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.7.5-beta"
   }
 }
