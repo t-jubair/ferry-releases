@@ -2,13 +2,13 @@
   "schema": 1,
   "stable": null,
   "beta": {
-    "version": "0.7.0",
-    "build": 8,
-    "notes": "A new Home with a big drop area and quick actions. Tap a device to see its battery, storage and network, or ring it. Updates show their progress. Files save straight to Downloads (or a folder you choose). Home-screen widget on Android and an edge drop zone on Mac. Pause, resume, and transfers continue after Wi-Fi drops. Smart video, data and battery saver. Activity filters, previews with next/previous, forward and delete. Block people and choose who can send. Guest link PIN, expiry and receive codes. Profile photo and your own link name. Drive mailbox page. AMOLED theme, Focus mode, Mac menus, a no-internet hotspot QR, and a new web app with phone and passkey sign-in.",
-    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.0-beta/ferry-beta-0.7.0.apk",
-    "apkSha256": "356c612280bfa1707a9b557330a542df102f93465bcd2eb631e77eaffd06d475",
-    "apkSize": 83305165,
-    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.0-beta/ferry-beta-mac-0.7.0.zip",
-    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.7.0-beta"
+    "version": "0.7.1",
+    "build": 9,
+    "notes": "New: Settings \u203a Reset Ferry puts the app back to factory defaults on this device (signs out, forgets devices and history, resets settings, restarts). Files you received are kept unless you choose to delete them.",
+    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.1-beta/ferry-beta-0.7.1.apk",
+    "apkSha256": "493f108a7eb8297ff8f1a1eaaed0e0c9d4565629d1fe8f696b1d054dd6257349",
+    "apkSize": 83313613,
+    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.1-beta/ferry-beta-mac-0.7.1.zip",
+    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.7.1-beta"
   }
 }
