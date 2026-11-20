@@ -2,13 +2,13 @@
   "schema": 1,
   "stable": null,
   "beta": {
-    "version": "0.7.2",
-    "build": 10,
-    "notes": "Mac: click Ferry in the menu bar for a new tray \u2014 drop files onto a device to send, copy screenshots and clipboard from your other devices, see transfers. Close the window and Ferry keeps running in the menu bar. The screen-edge drop zone is now off by default.",
-    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.2-beta/ferry-beta-0.7.2.apk",
-    "apkSha256": "7dd719dd161d2f5c9a0f2c9be4e360795aaf79e64f9b7d99954cb6bfaeb1582a",
-    "apkSize": 83313613,
-    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.2-beta/ferry-beta-mac-0.7.2.zip",
-    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.7.2-beta"
+    "version": "0.7.3",
+    "build": 11,
+    "notes": "The app now looks and works like the demo: every section \u2014 Home, Send, Activity, Received, Clipboard, Links, People, Drive mailbox, Profile, Settings \u2014 is in the sidebar on Mac and Tab (phone: Home, Send, Activity, Links and More). New Home with your profile card, Everyone and Pair cards, quick actions and photo thumbnails.",
+    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.3-beta/ferry-beta-0.7.3.apk",
+    "apkSha256": "b7d1393fe25c44212d3cc7cba593252a74523d230179123ad510a59c69cd2256",
+    "apkSize": 83387165,
+    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.7.3-beta/ferry-beta-mac-0.7.3.zip",
+    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.7.3-beta"
   }
 }
