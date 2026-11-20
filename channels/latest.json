@@ -1,5 +1,14 @@
 {
   "schema": 1,
   "stable": null,
-  "beta": null
+  "beta": {
+    "version": "0.4.0",
+    "build": 4,
+    "notes": "First release through the update feed: send to your devices anywhere through Google Drive, the web app at ferry-talha.pages.dev/app, a Mac menu-bar icon, and automatic update checks.",
+    "apk": "https://github.com/t-jubair/ferry-releases/releases/download/v0.4.0-beta/ferry-beta-0.4.0.apk",
+    "apkSha256": "2f9e1140aa1000aace709ba208ffb9bce1fcfde951484203279625911163df4b",
+    "apkSize": 27915802,
+    "mac": "https://github.com/t-jubair/ferry-releases/releases/download/v0.4.0-beta/ferry-beta-mac-0.4.0.zip",
+    "page": "https://github.com/t-jubair/ferry-releases/releases/tag/v0.4.0-beta"
+  }
 }
